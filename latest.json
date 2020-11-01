@@ -8,8 +8,8 @@
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-01T14:38:00"
+    "Status": "offen Bad ist voll, Wartezeit",
+    "LastUpdate": "2020-11-01T14:46:00"
   },
   {
     "Name": "Hallenbad City",
@@ -32,7 +32,7 @@
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen Bad ist voll-wartezeit",
-    "LastUpdate": "2020-11-01T09:12:00"
+    "Status": "offen Bad ist voll Wartezeit bis 1.5 Stunde",
+    "LastUpdate": "2020-11-01T14:47:00"
   }
 ]
