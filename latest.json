@@ -8,14 +8,14 @@
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-11-01T16:08:00"
+    "Status": "offen",
+    "LastUpdate": "2020-11-02T11:55:00"
   },
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
     "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-02T10:22:00"
+    "LastUpdate": "2020-11-02T11:55:00"
   },
   {
     "Name": "Hallenbad Leimbach",
