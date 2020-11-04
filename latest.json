@@ -1,9 +1,9 @@
 [
   {
     "Name": "Hallenbad Bläsi",
-    "Temperature": 28,
-    "Status": "offen 06.00-22.00 Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-04T05:59:00"
+    "Temperature": 29,
+    "Status": "geschlossen",
+    "LastUpdate": "2020-11-04T11:36:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
