@@ -32,7 +32,7 @@
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen Bad ist voll",
-    "LastUpdate": "2020-11-05T11:02:00"
+    "Status": "offen Bad ist voll - Wartezeit....",
+    "LastUpdate": "2020-11-05T11:26:00"
   }
 ]
