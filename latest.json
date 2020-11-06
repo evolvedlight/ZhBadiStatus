@@ -19,9 +19,9 @@
   },
   {
     "Name": "Hallenbad Leimbach",
-    "Temperature": 29,
-    "Status": "geschlossen 12.00 - 13.30 Bad ist über Mittag geöffnet.",
-    "LastUpdate": "2020-11-06T08:08:00"
+    "Temperature": 28,
+    "Status": "offen 06.00-22.00 Bad ist voll, Wartezeiten",
+    "LastUpdate": "2020-11-06T09:28:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
