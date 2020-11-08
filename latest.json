@@ -8,20 +8,20 @@
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-08T10:43:00"
+    "Status": "offen Bad ist gut besucht",
+    "LastUpdate": "2020-11-08T11:00:00"
   },
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
     "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-08T09:58:00"
+    "LastUpdate": "2020-11-08T10:51:00"
   },
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "offen 09.00 - 18.00 Bad ist mittelmässig besucht",
-    "LastUpdate": "2020-11-08T09:08:00"
+    "Status": "offen 09:00-18:00, das Bad ist voll Wartezeit",
+    "LastUpdate": "2020-11-08T11:05:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
