@@ -27,12 +27,12 @@
     "Name": "Hallenbad Oerlikon",
     "Temperature": 28,
     "Status": "geschlossen",
-    "LastUpdate": "2020-11-10T19:31:00"
+    "LastUpdate": "2020-11-10T19:54:00"
   },
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen Bad ist voll -Wartezeiten-",
-    "LastUpdate": "2020-11-10T18:59:00"
+    "Status": "offen Bad ist voll",
+    "LastUpdate": "2020-11-10T19:56:00"
   }
 ]
