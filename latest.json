@@ -2,8 +2,8 @@
   {
     "Name": "Hallenbad Bläsi",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-11-12T21:54:00"
+    "Status": "offen Bad ist wenig besucht",
+    "LastUpdate": "2020-11-13T12:04:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
@@ -20,8 +20,8 @@
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "geschlossen 08.00 - 12.00 Schulschwimmen",
-    "LastUpdate": "2020-11-13T07:42:00"
+    "Status": "offen 12:00 bis 13:30",
+    "LastUpdate": "2020-11-13T11:51:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
