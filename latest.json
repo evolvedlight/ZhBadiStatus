@@ -2,8 +2,8 @@
   {
     "Name": "Hallenbad Bläsi",
     "Temperature": 29,
-    "Status": "offen Bad ist voll",
-    "LastUpdate": "2020-11-15T11:10:00"
+    "Status": "offen Bad ist mittelmässig besucht",
+    "LastUpdate": "2020-11-15T11:21:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
@@ -15,7 +15,7 @@
     "Name": "Hallenbad City",
     "Temperature": 28,
     "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-15T11:19:00"
+    "LastUpdate": "2020-11-15T11:24:00"
   },
   {
     "Name": "Hallenbad Leimbach",
