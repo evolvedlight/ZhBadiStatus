@@ -31,8 +31,8 @@
   },
   {
     "Name": "Wärmebad Käferberg",
-    "Temperature": 28,
-    "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-16T13:59:00"
+    "Temperature": 32,
+    "Status": "geschlossen",
+    "LastUpdate": "2020-11-16T14:25:00"
   }
 ]
