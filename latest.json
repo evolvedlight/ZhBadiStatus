@@ -14,8 +14,8 @@
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
-    "Status": "offen Bad ist wenig besucht",
-    "LastUpdate": "2020-11-15T21:20:00"
+    "Status": "offen",
+    "LastUpdate": "2020-11-16T05:59:00"
   },
   {
     "Name": "Hallenbad Leimbach",
@@ -26,8 +26,8 @@
   {
     "Name": "Hallenbad Oerlikon",
     "Temperature": 28,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-11-15T21:30:00"
+    "Status": "offen Bad ist sehr gut besucht",
+    "LastUpdate": "2020-11-16T05:34:00"
   },
   {
     "Name": "Wärmebad Käferberg",
