@@ -2,14 +2,14 @@
   {
     "Name": "Hallenbad Bläsi",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-11-16T18:54:00"
+    "Status": "offen Bad ist mittelmässig besucht",
+    "LastUpdate": "2020-11-17T11:57:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-11-16T18:40:00"
+    "Status": "offen",
+    "LastUpdate": "2020-11-17T11:52:00"
   },
   {
     "Name": "Hallenbad City",
@@ -32,7 +32,7 @@
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen bad ist mittelmässig besucht",
-    "LastUpdate": "2020-11-17T10:59:00"
+    "Status": "offen bad ist mitelmässig besucht",
+    "LastUpdate": "2020-11-17T12:02:00"
   }
 ]
