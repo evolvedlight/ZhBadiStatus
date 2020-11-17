@@ -1,15 +1,15 @@
 [
   {
     "Name": "Hallenbad Bläsi",
-    "Temperature": 28,
-    "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-17T16:34:00"
+    "Temperature": 29,
+    "Status": "offen Bad ist mittelmässig besucht",
+    "LastUpdate": "2020-11-17T17:24:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "offen Bad ist gut besucht",
-    "LastUpdate": "2020-11-17T15:53:00"
+    "Status": "offen Das Bad ist sehr gut besucht",
+    "LastUpdate": "2020-11-17T17:28:00"
   },
   {
     "Name": "Hallenbad City",
