@@ -2,14 +2,14 @@
   {
     "Name": "Hallenbad Bläsi",
     "Temperature": 29,
-    "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-18T17:18:00"
+    "Status": "geschlossen",
+    "LastUpdate": "2020-11-18T18:56:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-18T17:53:00"
+    "Status": "geschlossen",
+    "LastUpdate": "2020-11-18T18:50:00"
   },
   {
     "Name": "Hallenbad City",
@@ -26,8 +26,8 @@
   {
     "Name": "Hallenbad Oerlikon",
     "Temperature": 28,
-    "Status": "offen Bad ist voll, Wartezeiten",
-    "LastUpdate": "2020-11-18T14:59:00"
+    "Status": "offen 06.00 - 22.00, Bad ist mittelmässig besucht",
+    "LastUpdate": "2020-11-18T19:07:00"
   },
   {
     "Name": "Wärmebad Käferberg",
