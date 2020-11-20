@@ -20,8 +20,8 @@
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "offen 12:00 bis 13:30 Öffentlich, sehr gut besucht. Ab 13:30 bis 15:30 Schulschwimmen, geschlossen",
-    "LastUpdate": "2020-11-20T12:09:00"
+    "Status": "offen 15:30 bis 22:00 Uhr wenig besucht",
+    "LastUpdate": "2020-11-20T15:53:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
@@ -32,7 +32,7 @@
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen bad ist voll wartezeit",
-    "LastUpdate": "2020-11-20T14:59:00"
+    "Status": "offen Bad ist Voll",
+    "LastUpdate": "2020-11-20T16:06:00"
   }
 ]
