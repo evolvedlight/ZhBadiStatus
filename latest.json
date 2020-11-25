@@ -14,14 +14,14 @@
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
-    "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-25T06:04:00"
+    "Status": "offen Bad ist voll - Wartezeit",
+    "LastUpdate": "2020-11-25T06:24:00"
   },
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "offen das Bad ist voll Wartezeit",
-    "LastUpdate": "2020-11-24T17:14:00"
+    "Status": "offen 06.00-07.30  12.00-22.00 Bad gut besucht",
+    "LastUpdate": "2020-11-25T06:22:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
