@@ -15,13 +15,13 @@
     "Name": "Hallenbad City",
     "Temperature": 28,
     "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-27T11:42:00"
+    "LastUpdate": "2020-11-27T11:49:00"
   },
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "geschlossen von 8:00-12:00Uhr, Schulschwimmen.",
-    "LastUpdate": "2020-11-27T07:46:00"
+    "Status": "offen von 12:00-13:30Uhr, Bad ist sehr gut besucht. Schulschwimmen von 13:30-15:30Uhr geschlossen.",
+    "LastUpdate": "2020-11-27T12:09:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
