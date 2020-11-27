@@ -2,8 +2,8 @@
   {
     "Name": "Hallenbad Bläsi",
     "Temperature": 29,
-    "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-26T17:36:00"
+    "Status": "geschlossen",
+    "LastUpdate": "2020-11-26T22:31:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
@@ -15,24 +15,24 @@
     "Name": "Hallenbad City",
     "Temperature": 28,
     "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-26T21:14:00"
+    "LastUpdate": "2020-11-27T06:07:00"
   },
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "offen ab 16.30 bis 21.00 Uhr geöffnet.",
-    "LastUpdate": "2020-11-26T13:46:00"
+    "Status": "offen offen von 6:00-8:00Uhr, Sehr Gut besucht. Teilbelegung, 3Bahnen Öffentlich",
+    "LastUpdate": "2020-11-27T06:09:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
     "Temperature": 28,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-11-26T19:42:00"
+    "Status": "offen 06.00 - 22.00, Bad ist mittelmässig besucht",
+    "LastUpdate": "2020-11-27T06:05:00"
   },
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen Bad ist mittelmässig besucht",
-    "LastUpdate": "2020-11-26T20:09:00"
+    "Status": "geschlossen",
+    "LastUpdate": "2020-11-27T00:02:00"
   }
 ]
