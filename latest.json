@@ -20,8 +20,8 @@
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "offen 12.00-13.30 Bad ist gut besucht",
-    "LastUpdate": "2020-11-27T13:00:00"
+    "Status": "geschlossen",
+    "LastUpdate": "2020-11-27T14:15:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
