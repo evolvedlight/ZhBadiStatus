@@ -14,14 +14,14 @@
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
-    "Status": "offen Bad ist sehr gut besucht",
-    "LastUpdate": "2020-11-28T14:38:00"
+    "Status": "offen Bad ist voll - Wartezeit",
+    "LastUpdate": "2020-11-28T15:06:00"
   },
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "offen Familienschwimmen 9:00-14:00Uhr, Bad ist gut besucht. Hubboden 80cm, keine Bahnen!",
-    "LastUpdate": "2020-11-28T11:01:00"
+    "Status": "offen - 18:00, Hubboden auf 1.80, nur für Schwimmer",
+    "LastUpdate": "2020-11-28T15:00:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
