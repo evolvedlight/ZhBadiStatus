@@ -14,8 +14,8 @@
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
-    "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-28T13:47:00"
+    "Status": "offen Bad ist sehr gut besucht",
+    "LastUpdate": "2020-11-28T14:38:00"
   },
   {
     "Name": "Hallenbad Leimbach",
@@ -32,7 +32,7 @@
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen bad ist mittelmässig besucht",
-    "LastUpdate": "2020-11-28T14:19:00"
+    "Status": "offen bad ist voll wartezeit",
+    "LastUpdate": "2020-11-28T14:32:00"
   }
 ]
