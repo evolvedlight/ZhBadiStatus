@@ -8,26 +8,26 @@
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-11-29T15:39:00"
+    "Status": "offen Bad ist gut besucht",
+    "LastUpdate": "2020-11-30T12:42:00"
   },
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
-    "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-11-30T11:31:00"
+    "Status": "offen Bad ist sehr gut besucht",
+    "LastUpdate": "2020-11-30T12:34:00"
   },
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "offen 12:00-13:00 und 16:00-22:00, Bad ist mittelmässig besucht",
-    "LastUpdate": "2020-11-30T12:05:00"
+    "Status": "offen 12:00-13:00 und 16:00-22:00, Bad ist gut besucht",
+    "LastUpdate": "2020-11-30T12:42:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
     "Temperature": 28,
-    "Status": "offen Bad ist voll, Wartezeiten",
-    "LastUpdate": "2020-11-30T09:25:00"
+    "Status": "offen 06.00 - 20.00, Bad ist mittelmässig besucht",
+    "LastUpdate": "2020-11-30T12:34:00"
   },
   {
     "Name": "Wärmebad Käferberg",
