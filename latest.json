@@ -8,14 +8,14 @@
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "offen Bad ist gut besucht. Bis 16 Kinderschwimmkurs, 16-17.30 Seniorenschwimmen.",
-    "LastUpdate": "2020-12-02T14:10:00"
+    "Status": "offen Bad ist gut besucht. Bis 16 h Kinderschwimmkurs, 16-17.30 Seniorenschwimmen",
+    "LastUpdate": "2020-12-02T14:30:00"
   },
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
     "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-12-02T13:53:00"
+    "LastUpdate": "2020-12-02T14:25:00"
   },
   {
     "Name": "Hallenbad Leimbach",
@@ -32,7 +32,7 @@
   {
     "Name": "Wärmebad Käferberg",
     "Temperature": 32,
-    "Status": "offen bad ist voll wartezeit",
-    "LastUpdate": "2020-12-02T13:39:00"
+    "Status": "geschlossen",
+    "LastUpdate": "2020-12-02T14:34:00"
   }
 ]
