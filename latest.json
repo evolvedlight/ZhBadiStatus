@@ -8,14 +8,14 @@
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "offen Bad ist gut besucht, Seniorenschwimmen noch bis 17:30 Uhr.",
-    "LastUpdate": "2020-12-02T16:20:00"
+    "Status": "offen Bad ist gut besucht",
+    "LastUpdate": "2020-12-02T17:29:00"
   },
   {
     "Name": "Hallenbad City",
     "Temperature": 28,
     "Status": "offen Bad ist voll - Wartezeit",
-    "LastUpdate": "2020-12-02T15:30:00"
+    "LastUpdate": "2020-12-02T17:25:00"
   },
   {
     "Name": "Hallenbad Leimbach",
