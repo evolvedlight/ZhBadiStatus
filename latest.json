@@ -2,14 +2,14 @@
   {
     "Name": "Hallenbad Bläsi",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-12-01T19:50:00"
+    "Status": "offen Bad ist mittelmässig besucht",
+    "LastUpdate": "2020-12-02T11:57:00"
   },
   {
     "Name": "Hallenbad Bungertwies",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-12-01T18:44:00"
+    "Status": "offen",
+    "LastUpdate": "2020-12-02T12:01:00"
   },
   {
     "Name": "Hallenbad City",
@@ -20,8 +20,8 @@
   {
     "Name": "Hallenbad Leimbach",
     "Temperature": 29,
-    "Status": "geschlossen",
-    "LastUpdate": "2020-12-02T08:20:00"
+    "Status": "offen 12.00-22.00   Bad ist gut besucht",
+    "LastUpdate": "2020-12-02T12:07:00"
   },
   {
     "Name": "Hallenbad Oerlikon",
